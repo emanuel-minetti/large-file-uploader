@@ -1,11 +1,11 @@
 # Large File Uploader
 This project is aiming to implement an JavaScript uploader for large files.
 
-Its main goals are:
-- Customizable
-- ES5 compliant
-- Enabling Multithreading
-- HTTP Connection Errors tolerable
+Its main goals are (above of the obvious one of uploading large files):
+- Customization
+- ES5 compliance
+- Enable Multithreading
+- Tolerance to HTTP Connection Errors
 - Good documentation
 
 What's not included:
