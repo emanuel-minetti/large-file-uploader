@@ -2,7 +2,7 @@
 This project is aiming to implement an JavaScript uploader for large files.
 
 Its main goals are (above of the obvious one of uploading large files):
-- Customization
+- Being customizable
 - ES5 compliance
 - Enable Multithreading
 - Tolerance to HTTP Connection Errors
