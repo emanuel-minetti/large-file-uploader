@@ -15,6 +15,7 @@ What's not included:
 
 See [/frontend/index.html](frontend/index.html) and [/frontend/index.js](frontend/index.js)
 ## Credits
-First of all: Thanks to @pilovm , from whom this repository we cloned from pilovm/multithreaded-uploader] (https://github.com/pilovm/multithreaded-uploader).
+First of all: Thanks to @pilovm , from whom this repository we cloned from
+[pilovm/multithreaded-uploader](https://github.com/pilovm/multithreaded-uploader).
  
 Documentation will follow!
