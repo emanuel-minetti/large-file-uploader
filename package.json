@@ -1,11 +1,10 @@
 {
-  "name": "multithreaded-uploader",
+  "name": "large-file-uploader",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
-  "author": "Michael Pilov",
-  "license": "MIT",
-  "dependencies": {
-    "express": "4.16.2"
-  }
+  "authors": [
+    "Michael Pilov",
+    "Emanuel Minetti"
+  ],
+  "license": "MIT"
 }
