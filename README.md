@@ -1,7 +1,7 @@
 # Large File Uploader
 This project is aimed to implement an JavaScript uploader for large files.
 
-It's main goals are:
+Its main goals are:
 - Being customizable
 - Being ES5 compliant
 - Enables Multithreading
@@ -14,5 +14,7 @@ What's not included:
 ## How to use
 
 See [/frontend/index.html](frontend/index.html) and [/frontend/index.js](frontend/index.js)
+## Credits
+First of all: Thanks to @pilovm , from whom this repository we cloned from  [pilovm/multithreaded-uploader](/pilovm/multithreaded-uploader).
  
 Documentation will follow!

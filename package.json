@@ -1,7 +1,7 @@
 {
   "name": "large-file-uploader",
   "version": "1.0.0",
-  "description": "",
+  "description": "A JavaScript Uploader for Large Files",
   "authors": [
     "Michael Pilov",
     "Emanuel Minetti"
